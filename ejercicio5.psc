@@ -20,7 +20,7 @@ Algoritmo ejercicio5
 			columnaAleatoria<-Aleatorio(1, MAX_DIM)
 		Hasta Que tablero[filaAleatoria, columnaAleatoria]<>'H'
 		
-		tablero[filaAleatoria, columnaAleatoria]='H'
+		tablero[filaAleatoria, columnaAleatoria]='B'
 	FinPara
 	
 	Para fila<-1 Hasta MAX_DIM Hacer
